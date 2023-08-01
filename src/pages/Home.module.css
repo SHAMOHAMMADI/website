@@ -1,0 +1,14 @@
+
+.home img{
+    
+    width:70%;
+    margin:0;
+    height:400px;
+}
+.home{
+    display:flex;
+    justify-content: center;
+}
+div{
+
+}

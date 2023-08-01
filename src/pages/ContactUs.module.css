@@ -1,0 +1,28 @@
+.ContactUs{
+    color:#333;
+    direction: rtl;
+    width:100%;
+    margin:1em 1em;
+    padding:1em;
+
+    
+}
+
+.ContactUsAll{
+    display:flex;
+    width:95%;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    
+}
+.ContactUs{
+    margin:0.4em 0 0.4em 1em;
+}
+
+.map img{
+    width:90%;
+    padding:3em;
+    
+}
+
