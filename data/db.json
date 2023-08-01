@@ -1,0 +1,99 @@
+{
+    "Product-seri1" : {
+        "statue" : "true",
+        "data1":[
+            {
+                "id" : 1 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/56.jpeg"
+        
+            }, 
+            {
+                "id" : 2 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/55.jpeg"
+        
+            }, 
+            {
+                "id" : 3 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/65.jpeg"
+        
+            }, 
+            {
+                "id" : 4 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/69.jpeg"
+        
+            }, 
+            {
+                "id" : 6 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/120.jpeg"        
+            }, 
+            {
+                "id" : 7 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/130.jpeg"        
+            }, 
+            {
+                "id" : 8 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/110.jpeg"        
+            }, 
+            {
+                "id" : 9 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/80.jpeg"        
+            }, 
+            {
+                "id" : 10 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/125.jpeg"        
+            }
+
+
+
+
+
+
+        ]
+
+    }
+}
