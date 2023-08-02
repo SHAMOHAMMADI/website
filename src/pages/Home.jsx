@@ -11,6 +11,7 @@ export default function Home() {
         <div className={styled.home}>
             <p>text</p>
             <p>text</p>
+            <p>text3</p>
 
 
         
