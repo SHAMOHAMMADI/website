@@ -1,1 +1,6 @@
-
+.allPartner{
+    display:flex;
+    justify-content: space-evenly;
+    margin:2em;
+    flex-wrap:wrap;
+}

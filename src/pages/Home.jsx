@@ -9,7 +9,6 @@ export default function Home() {
     <div>
         <NavBar/>
         <div className={styled.home}>
-            <p>text</p>
 
         
  <img src={mainpic} alt="" />

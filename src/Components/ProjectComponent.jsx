@@ -1,9 +1,9 @@
 
 import React from 'react'
-import "./Products.css"
-import product from '../Components/logo/pro.png'
+import "./Project.css"
+import p from '../Components/logo/pro.png'
 
-export default function ProductsComponent(props) {
+export default function ProjectComponent(props) {
   return (
     <div>
         <div className="card">

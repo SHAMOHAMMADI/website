@@ -1,0 +1,284 @@
+{
+    "Product-seri1" : {
+        "statue" : "true",
+        "data1":[
+            {
+                "id" : 101 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }, 
+            {
+                "id" : 102 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "Components/logo/map.jpg"
+        
+            }, 
+            {
+                "id" : 103 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }, 
+            {
+                "id" : 104 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }, 
+            {
+                "id" : 105 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"        
+            }, 
+            {
+                "id" : 106 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"        
+            }, 
+            {
+                "id" : 107 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"        
+            }, 
+            {
+                "id" : 108 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"        
+            }, 
+            {
+                "id" : 109 ,
+                "Company" : "bticino" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"        
+            }
+
+        ],
+        "data2":[
+            {
+                "id" : 201 ,
+                "context" : "شرکت لگراند عرضه تجهیزات صنعتی ",
+                "Company" : "legrand" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }, 
+            {
+                "id" : 202 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }, 
+            {
+                "id" : 203 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }, 
+            {
+                "id" : 204 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }, 
+            {
+                "id" : 205 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"        
+            }, 
+            {
+                "id" : 206 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"        
+            }, 
+            {
+                "id" : 207 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعت",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/110.jpeg"        
+            }, 
+            {
+                "id" : 208 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "url": "https://api.slingacademy.com/public/sample-photos/80.jpeg"        
+            }, 
+            {
+                "id" : 209 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://api.slingacademy.com/public/sample-photos/125.jpeg"        
+            }
+
+
+        ],
+        "data3":[
+            {
+                "id" : 301 ,
+                "context" : " 3 شرکت لگراند عرضه تجهیزات صنعتی ",
+                "Company" : "legrand" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/150"
+        
+            }, 
+            {
+                "id" : 302 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/150"
+        
+            }, 
+            {
+                "id" : 303 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/80"
+        
+            }, 
+            {
+                "id" : 304 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }
+        ],
+        "data4":[
+            {
+                "id" : 401 ,
+                "context" : " 3 شرکت لگراند عرضه تجهیزات صنعتی ",
+                "Company" : "legrand" , 
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/150"
+        
+            }, 
+            {
+                "id" : 402 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/150"
+        
+            }, 
+            {
+                "id" : 403 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/80"
+        
+            }, 
+            {
+                "id" : 404 ,
+                "Company" : "eelectron" , 
+                "context" : "شرکت الکترون عرضه تجهیزات صنعتی",
+                "madeIn" : "italy",
+                "category" : "electrical",
+                "price" : "1000T",
+                "name" : "des",
+                "URL": "https://picsum.photos/150/100"
+        
+            }
+        ]
+
+    }
+}
