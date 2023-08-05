@@ -1,0 +1,74 @@
+.form{
+    display:flex;
+    flex-direction: column;
+    /* width:70%; */
+    justify-content: center;
+    align-items: center;
+    /* margin-top:2em; */
+    /* border:0.3px solid #000 */
+   
+   
+    /* background-image: url("../Components/logo/pic/loginpic/low1.jpg");' */
+}
+
+form h4{
+
+    width:16em;
+    margin:1em 0.3em 0.5em ;
+
+}
+.form input{
+    border:none;
+    background-color: #f9f9f9;
+    border-radius: 0.4em;
+    margin:0.5em 0;
+    height:2em;
+    direction:rtl;
+    padding:0.3em ;
+    width:20em;
+    outline:none;
+
+}
+
+.button{
+    border:none;
+    padding:0.2em ;
+    width:16em;
+    border-radius: 1em;
+    background-color: rgb(86, 224, 224);
+    font-size: 0.85em;            
+        background-image: linear-gradient(to right, #3a7bd5 0%, #3a6073  51%, #3a7bd5  100%);
+        margin: 10px;
+        padding: 15px 45px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;            
+        box-shadow: 0 0 20px #eee;
+        border-radius: 10px;
+        display: block;
+        margin-top:2em;
+}  
+
+      .button:hover {
+        background-position: right center; /* change the direction of the change here */
+        color: #fff;
+        text-decoration: none;
+      }
+     
+
+
+
+.formBox{
+    /* background-color: #d0f0f0; */
+    /* background-image: url("../Components/logo/pic/loginpic/low4.jpg"); */
+    width:64%;
+    /* border:0.3px solid black; */
+}
+
+.formBox img{
+    position:absolute;
+    width:40em;
+
+}

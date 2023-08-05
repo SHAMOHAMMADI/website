@@ -14,6 +14,8 @@ const NavBar = () =>{
             <li><Link to="/Projects">پروژه</Link></li>
             <li><Link to="/Partners">همکاران</Link></li>
             <li><Link to="/ContactUs">تماس با ما</Link></li>
+
+            <li><Link to="/LogIN">ورود کاربر</Link></li>
         </ul>
            
         </div>

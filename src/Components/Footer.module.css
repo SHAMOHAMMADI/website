@@ -1,5 +1,6 @@
 .FooterHeader  img{
-    width:5em;
+    width:4em;
+
 }
 
 .FooterHeader{
@@ -8,6 +9,7 @@
    background-color: #ececec;
    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
    margin:0.3em ;
+   padding:0.4em;
 
 }
 

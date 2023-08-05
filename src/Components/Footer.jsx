@@ -1,6 +1,12 @@
 import React from "react";
 import styled from "./Footer.module.css";
-import CompanyLogo from "./logo/SCS-min.png";
+import CompanyLogo1 from "./logo/SCS-min.png";
+import CompanyLogo2 from "./logo/pic/compLogo/1.png";
+import CompanyLogo3 from "./logo/pic/compLogo/2.png";
+import CompanyLogo4 from "./logo/pic/compLogo/3.png";
+import CompanyLogo5 from "./logo/pic/compLogo/4.png";
+import CompanyLogo6 from "./logo/pic/compLogo/2.png";
+
 import permisionSign from './logo/logo.png'
 import { Link } from "react-router-dom";
 import NavBar from "./NavBar";
@@ -9,12 +15,12 @@ function Footer() {
   return (
     <div className={styled.FooterWrapper}>
       <div className={styled.FooterHeader}>
-        <img src={CompanyLogo} alt="NoImage" />
-        <img src={CompanyLogo} alt="NoImage" />
-        <img src={CompanyLogo} alt="NoImage" />
-        <img src={CompanyLogo} alt="NoImage" />
-        <img src={CompanyLogo} alt="NoImage" />
-        <img src={CompanyLogo} alt="NoImage" />
+        <img src={CompanyLogo1} alt="NoImage" />
+        <img src={CompanyLogo2}  alt="NoImage" />
+        <img src={CompanyLogo3} alt="NoImage" />
+        <img src={CompanyLogo4} alt="NoImage" />
+        <img src={CompanyLogo5} style={{width:"6em"}}alt="NoImage" />
+        <img src={CompanyLogo6} alt="NoImage" />
       </div>
       <div className={styled.FooterBody}>
         <div className={styled.col1}>
