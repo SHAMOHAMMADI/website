@@ -24,8 +24,8 @@ export default function LogIn() {
         <lable htmlfor="password" ></lable>
         <input type="password" id="password" placeholder=" رمز عبور " />
         <lable htmlfor="password" ></lable>
-        <input type="password" id="password" placeholder="رمز عبور تکراری" />
-         <button className={styled.button}>ارسال کن</button>
+        <input type="password" id="password" placeholder="تکرار رمز عبور" />
+         <button className={styled.button}>ثبت نام</button>
       </form>
       </div>
       <div className={styled.image}>
