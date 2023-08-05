@@ -1,13 +1,12 @@
 
 .card{
 border:1px solid black;
-width:10em;;
+width:10em;
 height:max-content;
 display:flex;
-flex-direction: column;
 direction: rtl;
 padding:2em;
-margin:1em;
+margin:0.3em;
 background-color: #eee;
 border-radius: 1em;
 border: 1px solid #fff;

@@ -25,4 +25,8 @@
     padding:3em;
     
 }
+h5{
+    display:flex;
+    justify-content:start;
+}
 

@@ -1,7 +1,6 @@
 
 import React from 'react'
 import "./Products.css"
-import product from '../Components/logo/pro.png'
 
 export default function ProductsComponent(props) {
   return (
