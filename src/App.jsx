@@ -13,14 +13,14 @@ function App() {
     <div className="App">
       <header className="App-header">
       <Routes>
-      <Route path="/h" element={<Not404/> } />
-        <Route path="/" element={<Home/> } />
+      <Route path="*" element={<Not404/> } />
+        {/* <Route path="/" element={<Home/> } /> */}
         <Route path="/home" element={<Home/> } />
         <Route path="/Products" element={<Products/> } />
         <Route path="/Projects" element={<Projects/> } />
         <Route path="/Partners" element={<Partners/> } />
         <Route path="/ContactUs" element={<ContactUs/> } />
-        <Route path="/LogIn" element={<LogIn/> } />
+        <Route path="/Login" element={<LogIn/> } />
       </Routes>
       </header>
     </div>

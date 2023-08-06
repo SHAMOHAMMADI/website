@@ -1,1 +1,12 @@
 
+ .image1{
+    display : flex;
+    justify-content: center;
+    background-image: url("../Components/logo/pic/compLogo/404.png");
+    background-position:center;
+    background-size:cover;
+    width:50%;
+
+    margin:1em auto;
+    height:50vh;
+ } 
