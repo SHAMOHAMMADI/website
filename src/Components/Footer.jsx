@@ -7,7 +7,7 @@ import CompanyLogo4 from "./logo/pic/compLogo/3.png";
 import CompanyLogo5 from "./logo/pic/compLogo/4.png";
 import CompanyLogo6 from "./logo/pic/compLogo/2.png";
 
-import permisionSign from './logo/logo.png'
+import permisionSign from '../Components/logo/logo.png'
 import { Link } from "react-router-dom";
 import NavBar from "./NavBar";
 
@@ -69,6 +69,7 @@ function Footer() {
           سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز 
         </p>
         <img src={permisionSign} alt="" />
+
       </div>
     </div>
   );

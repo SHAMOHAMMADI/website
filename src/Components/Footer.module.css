@@ -19,13 +19,18 @@
     flex-direction: column;
     height:fit-content;
     box-shadow: none;
-    justify-content: right;
-    width:200px;
-    
+    justify-content:center;
+    width:10em;
+    margin-left: 2em;
+
+
 }
-ul li {
-    display:flex;
+.FooterBody ul li{
+width:100%;
+display: flex;
+justify-content: center;
 }
+
 
 .FooterBody p , h5{
     direction:rtl;
@@ -36,7 +41,7 @@ ul li {
 .FooterBody{
     display:flex;
     justify-content: center;
-    height:220px;
+    height:auto;
     margin:1em 4em;
     align-items: center;
 }
@@ -69,9 +74,14 @@ ul li {
 h5{
     padding:0 1em 1em;
 }
+
 .Footerbottom p{
     width:50%;
     line-height: 2em;
     margin:0 3em;
     text-indent: 1em;
+}
+
+.Footerbottom img{
+    width:5em;
 }

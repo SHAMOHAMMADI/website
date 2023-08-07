@@ -8,6 +8,7 @@ import Partners from './pages/Partners'
 import ContactUs from './pages/ContactUs'
 import LogIn from './pages/LogIn'
 
+
 function App() {
   return (
     <div className="App">
