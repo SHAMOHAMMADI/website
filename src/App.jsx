@@ -15,7 +15,7 @@ function App() {
       <header className="App-header">
       <Routes>
       <Route path="*" element={<Not404/> } />
-        {/* <Route path="/" element={<Home/> } /> */}
+        <Route path="/" element={<Home/> } />
         <Route path="/home" element={<Home/> } />
         <Route path="/Products" element={<Products/> } />
         <Route path="/Projects" element={<Projects/> } />

@@ -15,11 +15,11 @@ const NavBar = () =>{
             <img src={Logo} alt="" />
 
             </div>
-            <li><Link to="/Home">خانه</Link></li>
-            <li> <Link to="/Products">محصولات</Link></li>
-            <li><Link to="/Projects">پروژه</Link></li>
-            <li><Link to="/Partners">همکاران</Link></li>
-            <li><Link to="/ContactUs">تماس با ما</Link></li>
+            <li ><Link to="/Home">خانه</Link></li>
+            <li ><Link to="/Products">محصولات</Link></li>
+            <li ><Link to="/Projects">پروژه</Link></li>
+            <li ><Link to="/Partners">همکاران</Link></li>
+            <li ><Link to="/ContactUs">تماس با ما</Link></li>
 
            <li className={styled.login}><Link to="/LogIN">ورود کاربر</Link></li>
             <div className={styled.search}>

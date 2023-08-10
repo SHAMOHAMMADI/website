@@ -85,3 +85,19 @@ h5{
 .Footerbottom img{
     width:5em;
 }
+
+@media screen and (max-width:768px){
+
+    
+    .FooterBody {
+        display:flex;
+        flex-direction: column;
+        width:100%;
+        justify-content: center;
+        margin: 1em auto;
+    }
+    .FooterBody ul{
+        display:none;
+    }
+}
+
